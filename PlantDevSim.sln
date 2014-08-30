@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PlantDevSim", "PlantDevSim.vcproj", "{9EF996B1-17BF-4628-8C6B-53702A4FC472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		EmuDebug|Win32 = EmuDebug|Win32
+		EmuRelease|Win32 = EmuRelease|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EF996B1-17BF-4628-8C6B-53702A4FC472}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9EF996B1-17BF-4628-8C6B-53702A4FC472}.Debug|Win32.Build.0 = Debug|Win32
+		{9EF996B1-17BF-4628-8C6B-53702A4FC472}.EmuDebug|Win32.ActiveCfg = EmuDebug|Win32
+		{9EF996B1-17BF-4628-8C6B-53702A4FC472}.EmuDebug|Win32.Build.0 = EmuDebug|Win32
+		{9EF996B1-17BF-4628-8C6B-53702A4FC472}.EmuRelease|Win32.ActiveCfg = EmuRelease|Win32
+		{9EF996B1-17BF-4628-8C6B-53702A4FC472}.EmuRelease|Win32.Build.0 = EmuRelease|Win32
+		{9EF996B1-17BF-4628-8C6B-53702A4FC472}.Release|Win32.ActiveCfg = Release|Win32
+		{9EF996B1-17BF-4628-8C6B-53702A4FC472}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

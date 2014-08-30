@@ -1,0 +1,9 @@
+ 0. Bud Fate Refine
+ 1. Orientation more Randomized
+ 2. Internode Smooth
+ 3. Texture
+ 4. Internode representation
+
+
+NOTE:
+1. Barrier : cannot put straight above. Some position bias needed.
